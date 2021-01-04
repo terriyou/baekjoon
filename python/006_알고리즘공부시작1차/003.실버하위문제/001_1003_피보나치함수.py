@@ -6,8 +6,7 @@ one_cnt = [0,1,1]
 for i in range(n):
     zero_cnt = [1,0,1]
     one_cnt = [0,1,1]
-    inpt = int(input())
-    
+    inpt = int(input())    
     if inpt < 3:
         print(zero_cnt[inpt], one_cnt[inpt])
         continue
