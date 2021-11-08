@@ -1,4 +1,0 @@
-D:\Google 드라이브\0002.커리어\0001.pg_study\0012.백준\BaekJoon_1\Debug\BaekJoon_1.exe
-D:\Google 드라이브\0002.커리어\0001.pg_study\0012.백준\BaekJoon_1\Debug\BaekJoon_1.pdb
-C:\Users\terri\Google 드라이브\0002.커리어\0001.pg_study\0012.백준\BaekJoon_1\Debug\BaekJoon_1.exe
-C:\Users\terri\Google 드라이브\0002.커리어\0001.pg_study\0012.백준\BaekJoon_1\Debug\BaekJoon_1.pdb
